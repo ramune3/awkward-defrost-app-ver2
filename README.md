@@ -6,6 +6,7 @@
 
 ## 備考
 プログラミング自体はしておらず、すべてClaude Sonet 4.5によるコード生成です。
+筆者はプロンプトによってコード生成を調節しました。
 
 ## アクセス先
 ここからアクセスできます。→ https://ramune3.github.io/awkward-defrost-app-ver2/defrost.html
