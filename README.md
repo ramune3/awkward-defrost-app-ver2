@@ -1,6 +1,9 @@
 # awkward-defrost-app-ver2
 #16日目　15日目に作った気まずさ検出アプリを改良しました、バージョン2です。
 
+<img width="681" height="699" alt="image" src="https://github.com/user-attachments/assets/42bb20ac-4b87-4360-b90c-a0003310e599" />
+
+
 ## 備考
 プログラミング自体はしておらず、すべてClaude Sonet 4.5によるコード生成です。
 
