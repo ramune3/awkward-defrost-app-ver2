@@ -1,8 +1,11 @@
 # awkward-defrost-app-ver2
 #16日目　15日目に作った気まずさ検出アプリを改良しました、バージョン2です。
 
-# アクセス先
-ここからアクセスできます。→
+## 備考
+プログラミング自体はしておらず、すべてClaude Sonet 4.5によるコード生成です。
+
+## アクセス先
+ここからアクセスできます。→ https://ramune3.github.io/awkward-defrost-app-ver2/defrost.html
 
 # ver1と比べて改善したところ
 
